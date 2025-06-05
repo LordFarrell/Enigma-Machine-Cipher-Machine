@@ -2,10 +2,6 @@
 
 A fully functional, historically accurate WWII Enigma machine simulator with advanced cryptanalysis tools and educational features. Built as a single HTML file with no external dependencies.
 
-![Enigma Machine](https://img.shields.io/badge/Type-M3_Wehrmacht-brown)
-![Rotors](https://img.shields.io/badge/Rotors-I--V-gold)
-![Reflector](https://img.shields.io/badge/Reflector-B-silver)
-
 ## 🎯 Features
 
 ### Core Enigma Functionality
